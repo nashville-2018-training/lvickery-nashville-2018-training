@@ -1,0 +1,14 @@
+uuid: c2ff35b1-c719-42d5-b491-1c7d25437a89
+name: lvickery-nashville-2018-training
+mail: lvicker2@uncc.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
